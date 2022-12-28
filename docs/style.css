@@ -283,7 +283,7 @@ lector not, para acceder a los elementos, excepto algunos.
   }
   nav {
     position: static;
-    display: f;
+    display: flex;
     justify-content: center;
     align-items: center;
   }
